@@ -51,7 +51,7 @@ $ sudo pip uninstall numpy
 $ pip install numpy --upgrade
 ```
 
-
+여기서부터 하면댐 사실상
 ```
 $ source /opt/ros/foxy/setup.bash
 $ colcon build
