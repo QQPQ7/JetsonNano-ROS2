@@ -60,7 +60,7 @@ $ source ./install/local_setup.bash
 
 termainal 1
 ```
-$ ros2 run image_tools cam2images
+$ ros2 run image_tools cam2image
 ```
 
 terminal 2
